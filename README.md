@@ -23,3 +23,6 @@ In this report, we will be investigating the CO2 emission by vehicles from 2000 
 - Natural gas was the least used fuel type between 2000 and 2014
 - Larger vehicles emit more CO2
 - Fuel consumption and CO2 emission are directly related; more fuel consumed, more CO2 emitted
+- Strong positive correlation between engine size and CO2 emission. The larger the engine size, the more CO2 produced
+
+
