@@ -38,10 +38,10 @@ After performing exploratory data analysis on the “CO2 Emission by Vehicles”
 - Natural gas is the least used fuel type from the years 2000 - 2014, while regular and premium gasoline are the most used fuel types
 - The larger the vehicle, the more fuel it uses and CO2 it emits.
 - Diesel is the most efficient fuel type but has been one of the least popular fuel types while regular and premium gasoline have been the most popular between the years 2000 and 2014.
-- The average CO2 emitted by vehicles in 2000 is a lot more than vehicles in 2014.
+- The average CO2 emitted by vehicles made in 2000 is a lot more than vehicles made in 2014.
 #### Refinement
-- To improve this project further, we would calculate the fuel consumption ratings for each vehicle
-- We could also calculate the efficiency for each vehicle
+- To improve this project further, we would calculate the fuel consumption ratings for each vehicle.
+- We could also calculate the efficiency for each vehicle.
 - If we had information on where each vehicle was driven or registered during a specific time, we could have come up with CO2 emission trends region-wise. We could have then compared CO2 emission levels in different regions.
 
 ### Acknowledgements
