@@ -12,7 +12,7 @@ In this report, we will be investigating the CO2 emission by vehicles from 2000 
 
 ### Discussion (need to put this into paragraph form)
 
-- Sports/luxury car manufacturers emitted most CO2
+While initially exploring the data, we found that vehicles from sports/luxury car manufacturers emitted most CO2.
 - Heatmap - number of cylinders and fuel consumption have a strong positive correlation
 - Engine size and fuel consumption have a moderate positive correlation
 - Fuel consumption and CO2 have a strong positive correlation
