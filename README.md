@@ -22,6 +22,8 @@ Larger vehicles emit more CO2 and smaller vehicles gene, according to Figure 7
 - Fuel consumption and CO2 emission are directly related; more fuel consumed, more CO2 emitted
 - Strong positive correlation between engine size and CO2 emission. The larger the engine size, the more CO2 produced
 
+In Figure 8, we observed trends in the amount of vehicles that use a given fuel type. Despite being the most efficient, diesel fuel isn't popular compared to the others. Regular and premium gasoline maintain their spot as the most used type. There were no natural gas cars after 2004.
+
 ### Conclusion
 
 After performing exploratory data analysis on the “CO2 Emission by Vehicles” dataset, we learned about what impact different vehicle features and fuel types have on the fuel consumption of a vehicle and the CO2 they emit.
