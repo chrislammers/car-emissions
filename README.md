@@ -18,11 +18,27 @@ All of the columns in this dataset were closely related to each other. The numbe
 Diesel is the most efficient fuel type, ethanol and natural gas are the least efficient fuel types when measured in litres per 100km (Figure 4).
 Looking at fuel types compared to their average CO2 emissions, the graph is similar to Figure 4. The one exception is ethanol, which is the least efficient fuel type per litre, but on average it emits less CO2 than natural gas does (Figure 5).
 Figure 6 showed us that between 2000 and 2014, regular gasoline was the most used, and natural gas was the least used.
-Larger vehicles emit more CO2 and smaller vehicles generally emit less CO2, according to Figure 7
+Larger vehicles emit more CO2 and smaller vehicles gene, according to Figure 7
 - Fuel consumption and CO2 emission are directly related; more fuel consumed, more CO2 emitted
 - Strong positive correlation between engine size and CO2 emission. The larger the engine size, the more CO2 produced
 
 ### Conclusion
+
+After performing exploratory data analysis on the “CO2 Emission by Vehicles” dataset, we learned about what impact different vehicle features and fuel types have on the fuel consumption of a vehicle and the CO2 they emit.
+#### Reflection
+- Fuel consumption and CO2 emissions are directly related to one another. The more fuel a vehicle uses, the more CO2 it emits.
+- Engine size and CO2 emissions have a strong positive correlation. The larger the engine, the more CO2 it emits.
+- Fuel consumption at highways and in cities is almost the same.
+- Diesel is the most efficient fuel type while natural gas is the least efficient. Diesel produces the same amount of energy as natural gas but uses less amount of fuel.
+- Natural gas is the least used fuel type from the years 2000 - 2014, while regular and premium gasoline are the most used fuel types
+- The larger the vehicle, the more fuel it uses and CO2 it emits.
+- Diesel is the most efficient fuel type but has been one of the least popular fuel types while regular and premium gasoline have been the most popular between the years 2000 and 2014.
+- The average CO2 emitted by vehicles in 2000 is a lot more than vehicles in 2014.
+#### Refinement
+- To improve this project further, we would calculate the fuel consumption ratings for each vehicle
+- We could also calculate the efficiency for each vehicle
+- If we had information on where each vehicle was driven or registered during a specific time, we could have come up with CO2 emission trends region-wise. We could have then compared CO2 emission levels in different regions.
+
 
 ### Acknowledgements
 
