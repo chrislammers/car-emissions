@@ -17,12 +17,10 @@ While initially exploring the data, we found that vehicles from sports/luxury ca
 All of the columns in this dataset were closely related to each other. The number of cylinders, fuel consumption, and CO2 emission of each vehicle have a strong positive correlation. Engine size and fuel consumption have a moderate positive correlation (Figure 1). In Figure 2, we plotted CO2 emission vs. fuel consumption and coloured the five fuel types. There was already a strong correlation between these two, but it's clear that this relation is so much stronger when broken down by fuel type. Figure 3 compares CO2 emission to engine size, and while it's clear that larger engines produce more CO2, the fuel type doesn't show any clear patterns
 Diesel is the most efficient fuel type, ethanol and natural gas are the least efficient fuel types when measured in litres per 100km (Figure 4).
 Looking at fuel types compared to their average CO2 emissions, the graph is similar to Figure 4. The one exception is ethanol, which is the least efficient fuel type per litre, but on average it emits less CO2 than natural gas does (Figure 5).
-Figure 6 showed us that between 2000 and 2014, regular gasoline was the most used, and natural gas was the least used.
-Larger vehicles emit more CO2 and smaller vehicles gene, according to Figure 7
-- Fuel consumption and CO2 emission are directly related; more fuel consumed, more CO2 emitted
-- Strong positive correlation between engine size and CO2 emission. The larger the engine size, the more CO2 produced
-
+Figure 6 shows us that between 2000 and 2014, regular gasoline was the most used, and natural gas was the least used.
+Larger vehicles emit more CO2 and smaller vehicles gene, according to Figure 7.
 In Figure 8, we observed trends in the amount of vehicles that use a given fuel type. Despite being the most efficient, diesel fuel isn't popular compared to the others. Regular and premium gasoline maintain their spot as the most used type. There were no natural gas cars after 2004.
+Finally, Figure 9 
 
 ### Conclusion
 
