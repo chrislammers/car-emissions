@@ -1,6 +1,6 @@
 ### car-emissions
 
-# CO2 Emission by Vehicles, 2000-2014
+# CO2 Emission by Vehicles between 2000 and 2014
 
 ### About us:
 - Chris Lammers (chrislammers)
@@ -11,23 +11,21 @@
 
 In this report, we will be investigating the CO2 emissions by vehicles from 2000 to 2014. The dataset we used is called “CO2 Emission by vehicles” and was made available to the public by the Government of Canada on March 31, 2017. It has information on the fuel consumption and CO2 emissions of different types of vehicles from the years 2000 to 2014. When presenting our proposal, we had selected a dataset that did not have a time attribute and therefore performing exploratory data analysis (EDA) on that dataset was slightly challenging but this dataset does have a ‘Model Year’ column and thus, performing EDA was easier. 
 
-### Discussion (need to put this into paragraph form)
+### Discussion
 
 While initially exploring the data, we found that vehicles from sports/luxury car manufacturers such as Bugatti, Ferrari, and Bentley emitted most CO2. Vehicles from brands like Smart, Fiat, and Mini generally produce less CO2.
 
-All of the columns in this dataset were closely related to each other. The number of cylinders, fuel consumption, and CO2 emission of each vehicle have a strong positive correlation. Engine size and fuel consumption have a moderate positive correlation (Figure 1). In Figure 2, we plotted CO2 emission vs. fuel consumption and coloured the five fuel types. There was already a strong correlation between these two, but it's clear that this relation is so much stronger when broken down by fuel type. Figure 3 compares CO2 emission to engine size, and while it's clear that larger engines produce more CO2, the fuel type doesn't show any clear patterns.
+All of the columns in this dataset were closely related to each other. The number of cylinders is positively correlated to fuel consumption and CO2 emissions (Figure 1) which means the more cylinders a vehicle has, the more fuel it uses and thus, the more CO2 it emits. Figure 2 shows the strong positive correlation fuel consumption and CO2 emission have. The more fuel is used, the more CO2 is emitted by the vehicle. Figure 3 demonstrates the strong positive correlation between engine size and CO2 emission. While it's clear that larger engines produce more CO2, the fuel type doesn't show any clear patterns.
 
-Diesel is the most efficient fuel type, ethanol and natural gas are the least efficient fuel types when measured in litres per 100km (Figure 4).
+Figures 4 and 5 demonstrate the efficiency of each fuel type. Diesel uses the least fuel per 100 km to produce the same amount of energy while ethanol and natural gas use the most fuel. Therefore, diesel is the most efficient fuel type while ethanol and natural gas are the least efficient fuel types.
 
-Looking at fuel types compared to their average CO2 emissions, the graph is similar to Figure 4. The one exception is ethanol, which is the least efficient fuel type per litre, but on average it emits less CO2 than natural gas does (Figure 5).
+Figure 6 shows us that between 2000 and 2014, regular and premium gasoline were the most used fuel types while natural gas was the least used.
 
-Figure 6 shows us that between 2000 and 2014, regular gasoline was the most used, and natural gas was the least used.
+Figure 7 demonstrates the fact that larger vehicles emit more CO2 as compared to smaller vehicles.
 
-Larger vehicles emit more CO2 and smaller vehicles gene, according to Figure 7.
+In Figure 8, we observed trends in the popularity of different fuel types between the years 2000 and 2014. Despite being the most efficient, diesel fuel isn't popular compared to the others. Ethanol was also one of the less popular fuel types. Regular and premium gasoline maintain their spot as the most used type. There were no vehicles that used natural gas after 2004.
 
-In Figure 8, we observed trends in the amount of vehicles that use a given fuel type. Despite being the most efficient, diesel fuel isn't popular compared to the others. Regular and premium gasoline maintain their spot as the most used type. There were no natural gas cars after 2004.
-
-Finally, we created Figure 9 to analyze the trends of average CO2 emissions made by these vehicles between 2000 and 2014. Fortunately, it's a downward trend, which means vehicles are polluting less on average.
+Finally, we created Figure 9 to analyze the trends of average CO2 emissions by vehicles made between 2000 and 2014. There isn't a big difference in the average CO2 emitted by vehicles made in 2000 as compared to those made in 2014 but there is a downward trend, which means vehicles are polluting less CO2 on average.
 
 ### Conclusion
 
