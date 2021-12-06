@@ -1,6 +1,6 @@
 ### car-emissions
 
-# Have you ever wondered how much CO2 you car has been emitting?
+# Have you ever wondered how much CO2 your car has been emitting?
 
 ### About us:
 - Chris Lammers (chrislammers)
