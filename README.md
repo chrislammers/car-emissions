@@ -39,6 +39,5 @@ After performing exploratory data analysis on the “CO2 Emission by Vehicles”
 - We could also calculate the efficiency for each vehicle
 - If we had information on where each vehicle was driven or registered during a specific time, we could have come up with CO2 emission trends region-wise. We could have then compared CO2 emission levels in different regions.
 
-
 ### Acknowledgements
-
+“This project was submitted as the final course project for CSCI 2000U “Scientific Data Analysis” during Fall 2021. The authors certify that the work in this repository is original and that all appropriate resources are rightfully cited.”
