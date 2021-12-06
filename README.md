@@ -18,7 +18,7 @@ All of the columns in this dataset were closely related to each other. The numbe
 Diesel is the most efficient fuel type, ethanol and natural gas are the least efficient fuel types when measured in litres per 100km (Figure 4).
 Looking at fuel types compared to their average CO2 emissions, the graph is similar to Figure 4. The one exception is ethanol, which is the least efficient fuel type per litre, but on average it emits less CO2 than natural gas does (Figure 5).
 Figure 6 showed us that between 2000 and 2014, regular gasoline was the most used, and natural gas was the least used.
-Larger vehicles emit more CO2 and smaller vehicles gene, according to Figure 7
+Larger vehicles emit more CO2 and smaller vehicles generally emit less CO2, according to Figure 7
 - Fuel consumption and CO2 emission are directly related; more fuel consumed, more CO2 emitted
 - Strong positive correlation between engine size and CO2 emission. The larger the engine size, the more CO2 produced
 
