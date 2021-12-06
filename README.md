@@ -1,6 +1,6 @@
 ### car-emissions
 
-# CO2 Emission by Vehicles between 2000 and 2014
+# Have you ever wondered how much CO2 you car has been emitting?
 
 ### About us:
 - Chris Lammers (chrislammers)
