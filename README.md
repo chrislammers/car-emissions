@@ -20,7 +20,7 @@ Looking at fuel types compared to their average CO2 emissions, the graph is simi
 Figure 6 shows us that between 2000 and 2014, regular gasoline was the most used, and natural gas was the least used.
 Larger vehicles emit more CO2 and smaller vehicles gene, according to Figure 7.
 In Figure 8, we observed trends in the amount of vehicles that use a given fuel type. Despite being the most efficient, diesel fuel isn't popular compared to the others. Regular and premium gasoline maintain their spot as the most used type. There were no natural gas cars after 2004.
-Finally, Figure 9 
+Finally, we created Figure 9 to analyze the trends of average CO2 emissions made by these vehicles between 2000 and 2014. Fortunately, it's a downward trend, which means vehicles are polluting less on average.
 
 ### Conclusion
 
